@@ -1,0 +1,111 @@
+body {
+  background-color: #EAF6F6;
+  margin: 0;
+  text-align: center;
+  /* font-family: verdana,Arial, sans-serif; */
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+}
+h1 {
+  font-size: 5.625rem; /* 90px/16px = 5.625, 5.625*100=562.5% or 5.625em or 5.625rem*/
+  width: 60%;
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #71c9ce;
+}
+.subtitle {
+  font-size: 2.5rem;
+  color: #71c9ce;
+  font-weight: normal;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a {
+  color: #11999E;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #008080;
+  border-width: 5px;
+  width: 5%;
+
+}
+.top-container {
+  background-color: #e3fdfd;
+  padding: 20px;
+
+}
+.middle-container {
+  background-color: #cbf1f5;
+  /*padding-bottom: 10px; */
+  padding: 10px;
+}
+.bottom-container {
+  background-color: #a6e3e9;
+  padding: 10px;
+
+}
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  margin-top: 10px;
+}
+.top-cloud {
+  margin: 0 auto 0 300px;
+
+}
+.contact-icon {
+  padding: 10px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 110px auto;
+  text-align: left;
+  line-height: 2;
+}
+.webdev {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.erp {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+
+.profile {
+  padding-bottom: 30px;
+}
+.btn {
+  background-color: #11999E;
+  color: white;
+  border-radius: 15px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.btn:hover {
+  background-color: #a6e3e9;
+  color: black;
+
+}
+.copyright {
+  padding-top: 20px;
+}
+.star {
+  padding-left: 10px;
+}
